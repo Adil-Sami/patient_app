@@ -1,0 +1,17 @@
+
+video call api not respond
+
+Payment method
+    Commented popup and only Razorpay checkout
+
+1 for text message,
+2 for audio message,
+3 for attachment,
+4 for images,
+5 for location,
+6 for prescription,
+7 for lab tests
+8 for call
+9 for appointment booking
+10 for custom offer (they also send from cron job)
+
